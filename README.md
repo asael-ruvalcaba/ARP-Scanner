@@ -8,7 +8,7 @@ An ARP scanner maps IP addresses to media access control (MAC) addresses and can
 - `sys`: To use sys.exit() and exit the program.
 
 ### Use and Execution
-Para ejecutar este script, puedes usar el siguiente comando en la terminal:
+To run this script, you can use the following command in the terminal:
 
 `python name_script.py -t <IP or range IP>`
 
